@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
