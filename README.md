@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/deveshmokhariya/Coding/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
