@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/deveshmokhariya/Coding/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
