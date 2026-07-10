@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deveshmokhariya/Coding/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
