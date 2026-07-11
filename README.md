@@ -15,6 +15,7 @@
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2765-longest-alternating-subarray](https://github.com/deveshmokhariya/Coding/tree/master/2765-longest-alternating-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Enumeration
+|  |
+| ------- |
+| [2765-longest-alternating-subarray](https://github.com/deveshmokhariya/Coding/tree/master/2765-longest-alternating-subarray) |
 <!---LeetCode Topics End-->
