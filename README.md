@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/deveshmokhariya/Coding/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,5 +60,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
