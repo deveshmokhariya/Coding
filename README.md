@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deveshmokhariya/Coding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -97,4 +99,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
