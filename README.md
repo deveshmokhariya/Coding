@@ -15,6 +15,7 @@
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
+| [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/deveshmokhariya/Coding/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
