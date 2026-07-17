@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/deveshmokhariya/Coding/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/deveshmokhariya/Coding/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
