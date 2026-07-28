@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deveshmokhariya/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deveshmokhariya/Coding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
@@ -60,6 +62,7 @@
 | [0075-sort-colors](https://github.com/deveshmokhariya/Coding/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -79,6 +82,7 @@
 | [0069-sqrtx](https://github.com/deveshmokhariya/Coding/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/deveshmokhariya/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deveshmokhariya/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -149,6 +153,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/deveshmokhariya/Coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/deveshmokhariya/Coding/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deveshmokhariya/Coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
@@ -174,5 +179,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
