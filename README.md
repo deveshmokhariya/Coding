@@ -32,6 +32,7 @@
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/deveshmokhariya/Coding/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deveshmokhariya/Coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -177,6 +178,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/deveshmokhariya/Coding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deveshmokhariya/Coding/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
@@ -186,6 +188,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/deveshmokhariya/Coding/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
