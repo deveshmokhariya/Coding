@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/deveshmokhariya/Coding/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/deveshmokhariya/Coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/deveshmokhariya/Coding/tree/master/0075-sort-colors) |
@@ -164,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deveshmokhariya/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deveshmokhariya/Coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/deveshmokhariya/Coding/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/deveshmokhariya/Coding/tree/master/0189-rotate-array) |
@@ -190,6 +192,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deveshmokhariya/Coding/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/deveshmokhariya/Coding/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
