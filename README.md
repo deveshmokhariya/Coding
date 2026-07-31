@@ -25,6 +25,7 @@
 | [0189-rotate-array](https://github.com/deveshmokhariya/Coding/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/deveshmokhariya/Coding/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +95,7 @@
 | [0069-sqrtx](https://github.com/deveshmokhariya/Coding/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/deveshmokhariya/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deveshmokhariya/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,6 +106,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -196,6 +199,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/deveshmokhariya/Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/deveshmokhariya/Coding/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
