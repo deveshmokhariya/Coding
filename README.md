@@ -59,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deveshmokhariya/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deveshmokhariya/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/deveshmokhariya/Coding/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deveshmokhariya/Coding/tree/master/0217-contains-duplicate) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deveshmokhariya/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/deveshmokhariya/Coding/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -179,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/deveshmokhariya/Coding/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/deveshmokhariya/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deveshmokhariya/Coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/deveshmokhariya/Coding/tree/master/0069-sqrtx) |
