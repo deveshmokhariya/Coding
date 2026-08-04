@@ -54,6 +54,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2765-longest-alternating-subarray](https://github.com/deveshmokhariya/Coding/tree/master/2765-longest-alternating-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
