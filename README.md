@@ -63,6 +63,7 @@
 | [0073-set-matrix-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deveshmokhariya/Coding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/deveshmokhariya/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +81,7 @@
 | [0088-merge-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deveshmokhariya/Coding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/deveshmokhariya/Coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -140,6 +142,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/deveshmokhariya/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/deveshmokhariya/Coding/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/deveshmokhariya/Coding/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
