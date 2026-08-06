@@ -75,6 +75,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -151,6 +152,7 @@
 | [0242-valid-anagram](https://github.com/deveshmokhariya/Coding/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
+| [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
@@ -239,6 +242,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 ## Number Theory
 |  |
 | ------- |
