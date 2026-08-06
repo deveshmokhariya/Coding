@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [2765-longest-alternating-subarray](https://github.com/deveshmokhariya/Coding/tree/master/2765-longest-alternating-subarray) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/deveshmokhariya/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deveshmokhariya/Coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/deveshmokhariya/Coding/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/deveshmokhariya/Coding/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prefix Sum
 |  |
 | ------- |
