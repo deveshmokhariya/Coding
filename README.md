@@ -69,6 +69,7 @@
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -148,6 +149,7 @@
 | [0012-integer-to-roman](https://github.com/deveshmokhariya/Coding/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/deveshmokhariya/Coding/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/deveshmokhariya/Coding/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -178,6 +181,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
