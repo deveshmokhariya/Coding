@@ -168,6 +168,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deveshmokhariya/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/deveshmokhariya/Coding/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/deveshmokhariya/Coding/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
