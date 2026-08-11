@@ -50,6 +50,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deveshmokhariya/Coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deveshmokhariya/Coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/deveshmokhariya/Coding/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshmokhariya/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +130,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deveshmokhariya/Coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 | [0074-search-a-2d-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deveshmokhariya/Coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/deveshmokhariya/Coding/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
