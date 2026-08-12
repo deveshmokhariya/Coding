@@ -41,6 +41,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deveshmokhariya/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/deveshmokhariya/Coding/tree/master/0724-find-pivot-index) |
@@ -132,6 +133,7 @@
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deveshmokhariya/Coding/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deveshmokhariya/Coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
