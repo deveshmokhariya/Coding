@@ -49,6 +49,7 @@
 | [0896-monotonic-array](https://github.com/deveshmokhariya/Coding/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/deveshmokhariya/Coding/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/deveshmokhariya/Coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/deveshmokhariya/Coding/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/deveshmokhariya/Coding/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -108,6 +109,7 @@
 | [0414-third-maximum-number](https://github.com/deveshmokhariya/Coding/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/deveshmokhariya/Coding/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/deveshmokhariya/Coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deveshmokhariya/Coding/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshmokhariya/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -168,6 +170,7 @@
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/deveshmokhariya/Coding/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/deveshmokhariya/Coding/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/deveshmokhariya/Coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deveshmokhariya/Coding/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
