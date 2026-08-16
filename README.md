@@ -184,6 +184,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/deveshmokhariya/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/deveshmokhariya/Coding/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/deveshmokhariya/Coding/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/deveshmokhariya/Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/deveshmokhariya/Coding/tree/master/0242-valid-anagram) |
@@ -313,9 +314,14 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deveshmokhariya/Coding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deveshmokhariya/Coding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
