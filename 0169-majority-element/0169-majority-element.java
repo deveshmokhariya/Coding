@@ -1,17 +1,19 @@
 class Solution {
-    public int majorityElement(int[] nums) {
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            int count = 0;
-            for (int j = 0; j < n; j++) {
-                if (nums[i] == nums[j]) {
-                    count++;
-                }
-            }
-            if (count > n / 2) {
-                return nums[i];
-            }
+    public int majorityElement(int[] nums) 
+    {
+        return max_freq(nums,nums[0],0);
+    }
+    public int max_freq(int[] arr, int val, int index)
+    {
+        int count = 0;
+        for(int i = index;i<arr.length;i++){
+            if(arr[i]==val)
+                count++;
+            else
+                count--;
+            if(count<0)
+                return max_freq(arr,arr[i],i);
         }
-        return -1;
+        return val;
     }
 }
