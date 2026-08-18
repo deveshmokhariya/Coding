@@ -335,4 +335,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deveshmokhariya/Coding/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0206-reverse-linked-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
