@@ -329,6 +329,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deveshmokhariya/Coding/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/deveshmokhariya/Coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/deveshmokhariya/Coding/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/deveshmokhariya/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0206-reverse-linked-list) |
