@@ -183,6 +183,7 @@
 | [0905-sort-array-by-parity](https://github.com/deveshmokhariya/Coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/deveshmokhariya/Coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deveshmokhariya/Coding/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
