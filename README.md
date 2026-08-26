@@ -345,6 +345,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deveshmokhariya/Coding/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deveshmokhariya/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/deveshmokhariya/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/deveshmokhariya/Coding/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/deveshmokhariya/Coding/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/deveshmokhariya/Coding/tree/master/0141-linked-list-cycle) |
@@ -361,6 +362,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deveshmokhariya/Coding/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/deveshmokhariya/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/deveshmokhariya/Coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0206-reverse-linked-list) |
 ## Boyer–Moore Majority Vote Algorithm
