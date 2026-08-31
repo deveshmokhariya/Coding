@@ -221,6 +221,7 @@
 | [0005-longest-palindromic-substring](https://github.com/deveshmokhariya/Coding/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/deveshmokhariya/Coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/deveshmokhariya/Coding/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
@@ -268,6 +269,7 @@
 | [0048-rotate-image](https://github.com/deveshmokhariya/Coding/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/deveshmokhariya/Coding/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/deveshmokhariya/Coding/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/deveshmokhariya/Coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/deveshmokhariya/Coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deveshmokhariya/Coding/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deveshmokhariya/Coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
