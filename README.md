@@ -69,6 +69,7 @@
 | [1920-build-array-from-permutation](https://github.com/deveshmokhariya/Coding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deveshmokhariya/Coding/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/deveshmokhariya/Coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2765-longest-alternating-subarray](https://github.com/deveshmokhariya/Coding/tree/master/2765-longest-alternating-subarray) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
@@ -97,6 +98,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/deveshmokhariya/Coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
@@ -250,6 +252,7 @@
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/deveshmokhariya/Coding/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/deveshmokhariya/Coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
