@@ -1,15 +1,12 @@
 class Solution {
     public List<Integer> findLonely(int[] nums) {
-
         Arrays.sort(nums);
-
-        List<Integer> list = new ArrayList<>();
+        ArrayList<Integer> list = new ArrayList<>();
 
         if (nums.length == 1) {
             list.add(nums[0]);
             return list;
         }
-
 
         for (int i = 1; i < nums.length - 1; i++) {
             if (nums[i - 1] + 1 < nums[i]
@@ -30,7 +27,6 @@ class Solution {
         }
 
         Collections.sort(list);
-
         return list;
     }
 }
