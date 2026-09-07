@@ -347,11 +347,13 @@
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/deveshmokhariya/Coding/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/deveshmokhariya/Coding/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/deveshmokhariya/Coding/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/deveshmokhariya/Coding/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -403,4 +405,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deveshmokhariya/Coding/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/deveshmokhariya/Coding/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/deveshmokhariya/Coding/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
