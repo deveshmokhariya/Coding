@@ -43,6 +43,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/deveshmokhariya/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/deveshmokhariya/Coding/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/deveshmokhariya/Coding/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/deveshmokhariya/Coding/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
@@ -347,12 +348,14 @@
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/deveshmokhariya/Coding/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/deveshmokhariya/Coding/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/deveshmokhariya/Coding/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/deveshmokhariya/Coding/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/deveshmokhariya/Coding/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/deveshmokhariya/Coding/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
