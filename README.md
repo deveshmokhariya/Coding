@@ -48,6 +48,7 @@
 | [0523-continuous-subarray-sum](https://github.com/deveshmokhariya/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/deveshmokhariya/Coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/deveshmokhariya/Coding/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/deveshmokhariya/Coding/tree/master/0867-transpose-matrix) |
@@ -121,6 +122,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/deveshmokhariya/Coding/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/deveshmokhariya/Coding/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/deveshmokhariya/Coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/deveshmokhariya/Coding/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deveshmokhariya/Coding/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
+| [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -239,6 +242,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/deveshmokhariya/Coding/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
@@ -439,4 +443,8 @@
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/deveshmokhariya/Coding/tree/master/1818-minimum-absolute-sum-difference) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
