@@ -68,6 +68,7 @@
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/deveshmokhariya/Coding/tree/master/1672-richest-customer-wealth) |
+| [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/deveshmokhariya/Coding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deveshmokhariya/Coding/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -125,6 +126,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshmokhariya/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
 | [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
+| [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
