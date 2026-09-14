@@ -69,6 +69,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/deveshmokhariya/Coding/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
+| [1818-minimum-absolute-sum-difference](https://github.com/deveshmokhariya/Coding/tree/master/1818-minimum-absolute-sum-difference) |
 | [1920-build-array-from-permutation](https://github.com/deveshmokhariya/Coding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deveshmokhariya/Coding/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -127,6 +128,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deveshmokhariya/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
+| [1818-minimum-absolute-sum-difference](https://github.com/deveshmokhariya/Coding/tree/master/1818-minimum-absolute-sum-difference) |
 | [3731-find-missing-elements](https://github.com/deveshmokhariya/Coding/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
@@ -157,6 +159,7 @@
 | [0704-binary-search](https://github.com/deveshmokhariya/Coding/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/deveshmokhariya/Coding/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/deveshmokhariya/Coding/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1818-minimum-absolute-sum-difference](https://github.com/deveshmokhariya/Coding/tree/master/1818-minimum-absolute-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -432,4 +435,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/deveshmokhariya/Coding/tree/master/0084-largest-rectangle-in-histogram) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/deveshmokhariya/Coding/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
