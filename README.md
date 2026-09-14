@@ -38,6 +38,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/deveshmokhariya/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deveshmokhariya/Coding/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/deveshmokhariya/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/deveshmokhariya/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/deveshmokhariya/Coding/tree/master/0414-third-maximum-number) |
@@ -241,6 +242,7 @@
 | [0070-climbing-stairs](https://github.com/deveshmokhariya/Coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deveshmokhariya/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/deveshmokhariya/Coding/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/deveshmokhariya/Coding/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
@@ -447,4 +449,16 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
