@@ -362,6 +362,7 @@
 | [0020-valid-parentheses](https://github.com/deveshmokhariya/Coding/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/deveshmokhariya/Coding/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/deveshmokhariya/Coding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/deveshmokhariya/Coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/deveshmokhariya/Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/deveshmokhariya/Coding/tree/master/0234-palindrome-linked-list) |
@@ -465,13 +466,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
