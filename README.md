@@ -477,6 +477,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/deveshmokhariya/Coding/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -487,6 +488,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/deveshmokhariya/Coding/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -498,6 +500,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deveshmokhariya/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/deveshmokhariya/Coding/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
@@ -508,4 +511,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
