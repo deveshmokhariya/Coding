@@ -460,6 +460,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/deveshmokhariya/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -481,6 +482,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -493,6 +495,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -506,6 +509,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## DP on Trees
 |  |
 | ------- |
@@ -528,4 +532,5 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
