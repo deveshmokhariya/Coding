@@ -461,6 +461,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/deveshmokhariya/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/deveshmokhariya/Coding/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -483,6 +484,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -510,6 +513,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
