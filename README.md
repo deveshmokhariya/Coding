@@ -487,6 +487,7 @@
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -502,6 +503,7 @@
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [0572-subtree-of-another-tree](https://github.com/deveshmokhariya/Coding/tree/master/0572-subtree-of-another-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 ## DP on Trees
 |  |
 | ------- |
