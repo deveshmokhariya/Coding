@@ -173,6 +173,7 @@
 | [0169-majority-element](https://github.com/deveshmokhariya/Coding/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deveshmokhariya/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deveshmokhariya/Coding/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/deveshmokhariya/Coding/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/deveshmokhariya/Coding/tree/master/0646-maximum-length-of-pair-chain) |
+| [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/deveshmokhariya/Coding/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -500,6 +502,7 @@
 | [0938-range-sum-of-bst](https://github.com/deveshmokhariya/Coding/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -520,6 +523,7 @@
 | [0938-range-sum-of-bst](https://github.com/deveshmokhariya/Coding/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -545,6 +549,7 @@
 | [0938-range-sum-of-bst](https://github.com/deveshmokhariya/Coding/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -576,4 +581,5 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/deveshmokhariya/Coding/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
