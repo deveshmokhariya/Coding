@@ -75,6 +75,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/deveshmokhariya/Coding/tree/master/1818-minimum-absolute-sum-difference) |
 | [1920-build-array-from-permutation](https://github.com/deveshmokhariya/Coding/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/deveshmokhariya/Coding/tree/master/1929-concatenation-of-array) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/deveshmokhariya/Coding/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/deveshmokhariya/Coding/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deveshmokhariya/Coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2765-longest-alternating-subarray](https://github.com/deveshmokhariya/Coding/tree/master/2765-longest-alternating-subarray) |
@@ -105,6 +106,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/deveshmokhariya/Coding/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/deveshmokhariya/Coding/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/deveshmokhariya/Coding/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/deveshmokhariya/Coding/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/deveshmokhariya/Coding/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/deveshmokhariya/Coding/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/deveshmokhariya/Coding/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -503,6 +505,7 @@
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/deveshmokhariya/Coding/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -524,6 +527,7 @@
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/deveshmokhariya/Coding/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -550,6 +554,7 @@
 | [0965-univalued-binary-tree](https://github.com/deveshmokhariya/Coding/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/deveshmokhariya/Coding/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/deveshmokhariya/Coding/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## DP on Trees
 |  |
 | ------- |
@@ -582,4 +587,5 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/deveshmokhariya/Coding/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/deveshmokhariya/Coding/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/deveshmokhariya/Coding/tree/master/1382-balance-a-binary-search-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/deveshmokhariya/Coding/tree/master/1932-merge-bsts-to-create-single-bst) |
 <!---LeetCode Topics End-->
